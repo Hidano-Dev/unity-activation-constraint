@@ -1,0 +1,13 @@
+{
+  "name": "com.hidano.activation-constraint",
+  "version": "1.0.0",
+  "displayName": "Activation Constraint",
+  "description": "A tool to manage activation constraints in Unity projects.",
+  "unity": "6000.0",
+  "author": {
+    "name": "Hidano"
+  },
+  "dependencies": {
+  },
+  "license": "MIT"
+}
